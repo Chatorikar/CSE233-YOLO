@@ -28,7 +28,6 @@ The framework operates in two stages:
 
 ## Proposed Algorithm
 
-The decision process is encapsulated in the following algorithmic design:
 **Author**: Prathamesh Chatorikar
 <div align="center">
   <img src="assets/algo.JPG" alt="Algorithm 1: Safe Landing for Drone" width="700">
